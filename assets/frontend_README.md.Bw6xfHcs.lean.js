@@ -1,0 +1,1 @@
+import{_ as e,c as t,o,a3 as a}from"./chunks/framework.C_bjHMch.js";const h=JSON.parse('{"title":"目录","description":"","frontmatter":{},"headers":[],"relativePath":"frontend/README.md","filePath":"frontend/README.md"}'),r={name:"frontend/README.md"},l=a("",2),c=[l];function s(n,_,i,p,u,d){return o(),t("div",null,c)}const k=e(r,[["render",s]]);export{h as __pageData,k as default};
